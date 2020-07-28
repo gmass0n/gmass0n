@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/gmass0n/gmass0n/blob/master/images/illustration.png" height="150"/>
+<img align="right" src="https://github.com/gmass0n/gmass0n/blob/master/images/illustration.png" height="200"/>
 
 ### Hello, I'm Gabriel 👋
 
