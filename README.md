@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/gmass0n/gmass0n/blob/master/images/illustration.png" width="300"/>
 
 ### Hello, I'm Gabriel 👋
 
