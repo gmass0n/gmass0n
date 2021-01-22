@@ -2,6 +2,6 @@
 
 ### Hello, I'm Gabriel 👋
 
-I’m a full stack developer that loves everything about coding. I currently work as a ReactJs, Node.js and React Native developer at Aquisi, in Pedreira, SP. 
+I’m a full stack developer that loves everything about technologies. I currently work as a ReactJs, Node.js and React Native developer at RS Solutions, in Pedreira, SP. 
 
 - 📫  How to reach me: gmasson010@gmail.com or Instagram [@gmass0n](https://www.instagram.com/gmass0n/).
